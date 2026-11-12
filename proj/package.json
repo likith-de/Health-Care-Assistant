@@ -1,0 +1,1 @@
+{"name":"health-care-assistant","version":"1.0.0","description":"Doctor and patient medicine reminder with alarms","scripts":{"start":"node server.js"},"license":"MIT"}
